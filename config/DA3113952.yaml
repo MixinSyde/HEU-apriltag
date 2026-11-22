@@ -1,0 +1,27 @@
+image_width: 1440
+image_height: 1080
+camera_name: DA3113952
+camera_matrix:
+  rows: 3
+  cols: 3
+  data: [2584.329166,    0.     ,  713.652680,
+            0.     , 2581.157610,  586.329953,
+            0.     ,    0.     ,    1.     ]
+distortion_model: plumb_bob
+distortion_coefficients:
+  rows: 1
+  cols: 5
+  data: [-0.153922, 0.143529, 0.000294, 0.000414, 0.000000]
+rectification_matrix:
+  rows: 3
+  cols: 3
+  data: [1., 0., 0.,
+         0., 1., 0.,
+         0., 0., 1.]
+projection_matrix:
+  rows: 3
+  cols: 4
+  data: [2553.175049,    0.     , 713.280995,    0.     ,
+            0.     , 2561.462158, 586.474723,    0.     ,
+            0.     ,    0.     ,    1.     ,    0.     ]
+##2026.11.21 23:03 8mm 4F

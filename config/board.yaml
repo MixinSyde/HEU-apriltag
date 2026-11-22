@@ -1,0 +1,9 @@
+%YAML:1.0
+---
+dictionary: "DICT_4X4_50"
+squares_x: 6
+squares_y: 6
+square_length_m: 0.15
+marker_length_m: 0.12
+# 空数组采用 OpenCV 4.5.4 的默认连续 ID；自定义数组须按 board.objPoints 顺序填写。
+marker_ids: []
